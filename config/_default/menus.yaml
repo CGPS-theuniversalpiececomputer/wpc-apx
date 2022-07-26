@@ -1,0 +1,13 @@
+main:
+  - name: WORLD PIECE COMPUTER
+    url: 'https://the.wp.computer'
+    weight: 1
+  - name: UNIVERSAL PEACE
+    url: 'https://apx.up.computer'
+    weight: 2
+  - name: UNIVERSAL PEACE COMPUTER
+    url: 'https://the.up.computer'
+    weight: 3
+  - name: writings
+    url: /posts/
+    weight: 4
