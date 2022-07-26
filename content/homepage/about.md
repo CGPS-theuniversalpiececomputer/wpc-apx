@@ -1,7 +1,7 @@
 ---
 title: WORLD PIECE (PEACE)
 draft: false
-avatar: images/wpblacklarge.png
+avatar: images/wpblacksquare.png
 bio: This symbol represents a **world piece**. It is the peace symbol with a capital 'W' overlayed. This symbol is trademarked, but not registered. This symbol may also be used to symbolize **world peace**.
 social:
   - icon: envelope

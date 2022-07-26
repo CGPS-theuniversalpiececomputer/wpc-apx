@@ -8,6 +8,6 @@ main:
   - name: UNIVERSAL PEACE COMPUTER
     url: 'https://the.up.computer'
     weight: 3
-  - name: writings
+  - name: more
     url: /posts/
     weight: 4
