@@ -1,0 +1,15 @@
+# ignore
+
+# soft local navigation links
+*\[
+]*
+
+# system stuff
+*.swp
+.DS_STORE
+
+# other
+.hugo*
+go.mod
+go.sum
+public
