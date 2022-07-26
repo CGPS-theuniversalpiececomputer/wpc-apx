@@ -11,3 +11,6 @@ main:
   - name: more
     url: /posts/
     weight: 4
+  - name: $
+    url: 'https://time-machine-for-peace.myshopify.com'
+    weight: 5
