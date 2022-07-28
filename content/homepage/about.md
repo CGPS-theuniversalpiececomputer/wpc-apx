@@ -45,7 +45,7 @@ _[documentation here](/docs/documentation/6ws/who/) | [longform here](/posts/who
 
 ## Why?
 
-_[documentation here](/docs/documentation/6ws/why/) | [longform here](/posts/who6ws/)_
+_[documentation here](/docs/documentation/6ws/why/) | [longform here](/posts/why6ws/)_
 
 ## How?
 
