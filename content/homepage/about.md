@@ -39,6 +39,20 @@ widget:
     attachment: 
 ---
 
+## Who?
+
+## Why?
+
+## How?
+
+## What?
+
+## Where?
+
+## When?
+
+...
+
 ## Why world pieces?
 
 We recognize that a multitude of worlds surround us, and that each thing within a world is a world of its own. Because there are so many worlds / things, it makes life easier if we designate a simple name and symbol to represent any thing within a world that is also its own world. Call this, a **world piece**. Once we have a symbol and a name, we can build a custom language surrounding it with a corresponding pseudomath. The language and math are a better tool for analyzing world pieces and how they interact with one another. [rating, low]
