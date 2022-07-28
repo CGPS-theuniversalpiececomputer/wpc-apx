@@ -45,11 +45,11 @@ We recognize that a multitude of worlds surround us, and that each thing within 
 
 Think of a world piece as the atomic unit for everything regarding this project. Just like physics needs the 'particle' (quanta) upon which everything else is built, world peace study needs a similar atomic unit. Any world is it's own atomic world piece unit, and each atomic unit is comprised of smaller atomic world piece units. [rating, low]
 
-## How so world pieces? 
+## How world pieces? 
 
 With an atomic unit picked out, we can now do things like count and do math/operations. We can describe how many world pieces a world contains. We can describe the relationship (the network) between world pieces. The main thing we want to do by doing math is describe what world pieces do when they form a world. That is, a world is a collection of world pieces that network with a brain world piece to form a world piece computer. The world piece computer as a whole (plus the ambient environment it is embedded in) is equivalent to the world itself. Finally, the world piece computer being a world indicates we can treat it as a world piece inandof itself. [rating, low]
 
-## What for world pieces?
+## What world pieces?
 
 The more world pieces we identify and track, the higher resolution our datastreams will be. So, if we create a standard where each piece follows the same set of rules (behaves as cellular automata), then we can bundle individual data streams together into logically singular streams. [rating, trash]
 
