@@ -8,9 +8,13 @@ main:
   - name: UNIVERSAL PEACE COMPUTER
     url: 'https://the.up.computer'
     weight: 3
-  - name: more
+  - name: posts
     url: /posts/
     weight: 4
+  - name: docs
+    url: /docs/
+    weight: 5
   - name: $
     url: 'https://time-machine-for-peace.myshopify.com'
-    weight: 5
+    weight: 6
+
