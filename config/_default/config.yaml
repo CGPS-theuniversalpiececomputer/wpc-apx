@@ -7,7 +7,7 @@ title: WORLD PIECE
 theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 20
 copyright: >
   &copy; 2022 <a href="https://up.computer/">Universal Peace Computer</a>, <a
   href="https://wp.computer/">World Piece Computer</a>, <a href="https://blairmunroakusa.wp.computer/">Blair Munro</a>

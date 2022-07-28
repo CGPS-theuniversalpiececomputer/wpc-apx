@@ -41,15 +41,27 @@ widget:
 
 ## Who?
 
+_[documentation here](/docs/documentation/6ws/who/) | [longform here](/posts/who6ws/)_
+
 ## Why?
+
+_[documentation here](/docs/documentation/6ws/why/) | [longform here](/posts/who6ws/)_
 
 ## How?
 
+_[documentation here](/docs/documentation/6ws/how/) | [longform here](/posts/how6ws/)_
+
 ## What?
+
+_[documentation here](/docs/documentation/6ws/what/) | [longform here](/posts/what6ws/)_
 
 ## Where?
 
+_[documentation here](/docs/documentation/6ws/where/) | [longform here](/posts/where6ws/)_
+
 ## When?
+
+_[documentation here](/docs/documentation/6ws/when/) | [longform here](/posts/when6ws/)_
 
 ...
 
