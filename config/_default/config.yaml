@@ -9,8 +9,8 @@ theme: wangchucheng.com/hugo-eureka
 
 paginate: 20
 copyright: >
-  &copy; 2022 <a href="https://up.computer/">Universal Peace Computer</a>, <a
-  href="https://wp.computer/">World Piece Computer</a>, <a href="https://blairmunroakusa.wp.computer/">Blair Munro</a>
+  &copy; 2022 <a href="https://up.computer/">The Universal Piece Computer</a>, <a
+  href="https://wp.computer/">World Piece Computer</a> = <a href="https://blairmunroakusa.wp.computer/">Blair Munro</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
