@@ -6,62 +6,51 @@
     <description>Recent content in Posts on WORLD PIECE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://up.computer/&#34;&gt;Universal Peace Computer&lt;/a&gt;, &lt;a href=&#34;https://wp.computer/&#34;&gt;World Piece Computer&lt;/a&gt;, &lt;a href=&#34;https://blairmunroakusa.wp.computer/&#34;&gt;Blair Munro&lt;/a&gt;
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://up.computer/&#34;&gt;The Universal Piece Computer&lt;/a&gt;, &lt;a href=&#34;https://wp.computer/&#34;&gt;World Piece Computer&lt;/a&gt; = &lt;a href=&#34;https://blairmunroakusa.wp.computer/&#34;&gt;Blair Munro&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="https://apx.wp.computer/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 08:21:07 -0800</lastBuildDate>
+    <atom:link href="https://apx.wp.computer/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diagram Support</title>
-      <link>https://apx.wp.computer/posts/diagram-support/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
-      
-      <guid>https://apx.wp.computer/posts/diagram-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
+      <title>6 Ws, When</title>
+      <link>https://apx.wp.computer/posts/when6ws/</link>
+      <pubDate>Thu, 28 Jul 2022 08:21:07 -0800</pubDate>
+      <guid>https://apx.wp.computer/posts/when6ws/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Math Support</title>
-      <link>https://apx.wp.computer/posts/math-support/</link>
-      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
-      
-      <guid>https://apx.wp.computer/posts/math-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
+      <title>6 Ws, Where</title>
+      <link>https://apx.wp.computer/posts/where6ws/</link>
+      <pubDate>Thu, 28 Jul 2022 08:21:04 -0800</pubDate>
+      <guid>https://apx.wp.computer/posts/where6ws/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Featured Image</title>
-      <link>https://apx.wp.computer/posts/featured-image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://apx.wp.computer/posts/featured-image/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
+      <title>6 Ws, What</title>
+      <link>https://apx.wp.computer/posts/what6ws/</link>
+      <pubDate>Thu, 28 Jul 2022 08:20:56 -0800</pubDate>
+      <guid>https://apx.wp.computer/posts/what6ws/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://apx.wp.computer/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://apx.wp.computer/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <title>6 Ws, How</title>
+      <link>https://apx.wp.computer/posts/how6ws/</link>
+      <pubDate>Thu, 28 Jul 2022 08:20:52 -0800</pubDate>
+      <guid>https://apx.wp.computer/posts/how6ws/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Placeholder Text</title>
-      <link>https://apx.wp.computer/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://apx.wp.computer/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <title>6 Ws, Why</title>
+      <link>https://apx.wp.computer/posts/why6ws/</link>
+      <pubDate>Thu, 28 Jul 2022 08:20:49 -0800</pubDate>
+      <guid>https://apx.wp.computer/posts/why6ws/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Emoji Support</title>
-      <link>https://apx.wp.computer/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://apx.wp.computer/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <title>6 Ws, Who</title>
+      <link>https://apx.wp.computer/posts/who6ws/</link>
+      <pubDate>Thu, 28 Jul 2022 08:20:43 -0800</pubDate>
+      <guid>https://apx.wp.computer/posts/who6ws/</guid>
+      <description></description>
     </item>
-    
   </channel>
 </rss>
