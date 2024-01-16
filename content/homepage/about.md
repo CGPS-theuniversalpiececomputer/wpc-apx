@@ -1,5 +1,5 @@
 ---
-title: WORLD PIECE (PEACE)
+title: A WORLD PIECE (PEACE)
 draft: false
 avatar: images/wpblacksquare.png
 bio: This symbol represents a **world piece**. The emblem is a modified peace sign. It features the traditional circular border with an inverted 'Y' shape inside, symbolizing peace. However, this emblem is distinct because it includes two additional vertical lines that extend from the intersection of the 'Y' shape to the top of the circle. These lines create an overlay that resembles the letter 'W', which stands for 'world', thus combining the concepts of world and peace into a single graphic symbol. This emblem serves as a visual representation of the interconnectedness that unifying world pieces aims to achieve. This symbol is trademarked, but not registered. This symbol may also be used to represent the idealized notion of **world peace**.
