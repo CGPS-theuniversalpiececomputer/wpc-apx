@@ -39,6 +39,10 @@ widget:
     attachment: 
 ---
 
+## Some characteristics of a world piece:
+
+{{< figure src="images/characterWP.png" >}}
+
 ## Who?
 
 _[documentation here](/docs/documentation/6ws/who/) | [longform here](/posts/who6ws/)_
@@ -107,6 +111,3 @@ Some types or classes of world pieces:
 old, 21 ~~The more world pieces we identify and track, the higher resolution our datastreams will be. So, if we create a standard where each piece follows the same set of rules (behaves as cellular automata), then we can bundle individual data streams together into logically singular streams. [rating, trash]~~
 
 
-## Some world piece characteristics:
-
-{{< figure src="images/characterWP.png" >}}
