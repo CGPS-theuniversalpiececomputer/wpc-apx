@@ -1,15 +1,10 @@
 ---
-title: A WORLD PIECE (PEACE)
+title: WORLD PIECE
 draft: false
 avatar: images/wpblacksquare.png
 bio: This symbol represents a **world piece**. The emblem is a modified peace sign. It features the traditional circular border with an inverted 'Y' shape inside, symbolizing peace. However, this emblem is distinct because it includes two additional vertical lines that extend from the intersection of the 'Y' shape to the top of the circle. These lines create an overlay that resembles the letter 'W', which stands for 'world', thus combining the concepts of world and peace into a single graphic symbol. This emblem serves as a visual representation of the interconnectedness that unifying world pieces aims to achieve. This symbol is trademarked, but not registered. This symbol may also be used to represent the idealized notion of **world peace**.
+
 social:
-  - icon: envelope
-    iconPack: fas
-    url: mailto:apx@wp.computer
-  - icon: twitter
-    iconPack: fab
-    url: https://twitter.com/blairmunroakusa
   - icon: github
     iconPack: fab
     url: https://github.com/wp-computer/apx
@@ -42,30 +37,6 @@ widget:
 ## Some characteristics of a world piece:
 
 {{< figure src="images/characterWP.png" >}}
-
-## Who?
-
-_[documentation here](/docs/documentation/6ws/who/) | [longform here](/posts/who6ws/)_
-
-## Why?
-
-_[documentation here](/docs/documentation/6ws/why/) | [longform here](/posts/why6ws/)_
-
-## How?
-
-_[documentation here](/docs/documentation/6ws/how/) | [longform here](/posts/how6ws/)_
-
-## What?
-
-_[documentation here](/docs/documentation/6ws/what/) | [longform here](/posts/what6ws/)_
-
-## Where?
-
-_[documentation here](/docs/documentation/6ws/where/) | [longform here](/posts/where6ws/)_
-
-## When?
-
-_[documentation here](/docs/documentation/6ws/when/) | [longform here](/posts/when6ws/)_
 
 ...
 
