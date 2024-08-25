@@ -40,45 +40,19 @@ widget:
 
 ...
 
-## Why world pieces?
+## Term Overview:
 
-011524: The concept of a 'world piece' is pivotal as it represents a significant element within an individual's environment, encompassing both tangible and intangible aspects that are meaningful to them. These elements, when combined, form a complex system that influences the individual's interactions and experiences. By understanding and organizing these world pieces effectively, one can enhance their personal environment, which in turn can contribute to the broader goal of constructing a harmonious and interconnected global system. This aligns with our overarching objective of establishing a computational global peace system through the universal piece computer, where each world piece plays a role in the intricate network of peace and understanding.
+A world piece is a fundamental concept within the time machine for peace social invention program. Imagine it as a building block that represents a significant element of your world. This element can be anything from a physical object, like a book or a house, to an abstract concept, such as love or justice. Each world piece holds meaning and importance to you and contributes to the overall structure of your personal world.
 
-To illustrate, consider a world piece such as a family home. This space is not just a physical structure but a collection of memories, routines, and relationships that define a person's daily life. By recognizing the significance of each element within this world piece, from the dinner table that hosts family conversations to the photographs that tell a story of heritage, one can create a more nurturing and peaceful environment. This microcosm of peace within the home can then extend outward, influencing the community and beyond, ultimately contributing to the larger goal of global peace. In this way, every world piece, no matter how seemingly small, is integral to the fabric of the universal piece computer, which aims to synchronize and optimize the arrangement of these components to foster a state of global harmony. [rating: 2/5]
+World pieces are akin to bits---binary ones and zeros---in a digital electronic computer in that they serve as the fundamental unit of information. Just as bits are combined and manipulated to perform computations, world pieces are integrated and processed within a world piece computer to achieve specific outcomes. Each world piece, like a string of bits, represents a collection of significant elements in an individual's world, while their arrangement and interaction determine the overall functionality and effectiveness of the world piece computer.
 
+Consider how bits in a computer can represent anything from numbers to characters, enabling complex operations and computations. Similarly, world pieces can represent various aspects of one's life, such as relationships, goals, and resources. By systematically organizing and optimizing these world pieces, one can enhance their ability to navigate and achieve desired objectives.
 
-old, 21 ~~We recognize that a multitude of worlds surround us, and that each thing within a world is a world of its own. Because there are so many worlds / things, it makes life easier if we designate a simple name and symbol to represent any thing within a world that is also its own world. Call this, a **world piece**. Once we have a symbol and a name, we can build a custom language surrounding it with a corresponding pseudomath. The language and math are a better tool for analyzing world pieces and how they interact with one another. [rating, low]~~
+To understand a world piece better, think of it as a puzzle piece. Just as each puzzle piece is unique and essential to completing the picture, each world piece is crucial to forming the complete picture of your world. When you combine multiple world pieces, you create a system that defines how your world operates and interacts with other worlds.
 
-~~Think of a world piece as the atomic unit for everything regarding this project. Just like physics needs the 'particle' (quanta) upon which everything else is built, world peace study needs a similar atomic unit. Any world is it's own atomic world piece unit, and each atomic unit is comprised of smaller atomic world piece units. [rating, low]~~
+For example, consider a world piece that represents your home. This piece might include smaller pieces like the physical structure of the house, the people who live there, the daily routines, and the emotional connections you have with the space. Together, these smaller pieces form a comprehensive understanding of what your home means to you and how it functions within your life.
 
-## How world pieces? 
+The ultimate goal of the time machine for peace social invention program is to connect all these individual world pieces to build the universal piece computer. This computer by definition, facilitates global peace by optimizing the arrangement and interaction of world pieces, allowing us to better understand and collaborate with one another.
 
-011524: In the conceptual framework of the world piece computer, a 'world piece' functions as a fundamental unit of information, akin to a bit in electronic computers. It represents a collection of significant elements within an individual's world, including both tangible objects and abstract concepts. These elements are organized in a way that reflects the state and dynamics of that world, much like how bits encode and store data in electronic systems. The world piece's computational significance lies in its ability to integrate and process information without first converting it into binary code, allowing for direct manipulation of complex systems. This integration and manipulation are crucial for optimizing the arrangement of pieces within a world, thereby enhancing the functionality of the world piece computer in achieving its objectives.
-
-To relate this to our purpose, consider that each world piece is a component of the larger universal piece computer, which we aim to build as a computational global peace system. By optimizing how world pieces are integrated, we contribute to the efficiency and effectiveness of the universal piece computer, advancing us toward satisfying The Human Imperative and maintaining the universal piece.
-
-Now, let's consider some examples of world pieces in your life. They could be your social network, your professional skills, or even your daily routine. Each of these elements, when viewed as a world piece, contributes to the larger system of your personal world piece computer. By reflecting on how these elements interact and can be optimized, you are engaging in the process that mirrors the operation of a world piece computer, which in turn is a microcosm of the universal piece computer we strive to construct. [rating: 2/5]
-
-old, 21 ~~With an atomic unit picked out, we can now do things like count and do math/operations. We can describe how many world pieces a world contains. We can describe the relationship (the network) between world pieces. The main thing we want to do by doing math is describe what world pieces do when they form a world. That is, a world is a collection of world pieces that network with a brain world piece to form a world piece computer. The world piece computer as a whole (plus the ambient environment it is embedded in) is equivalent to the world itself. Finally, the world piece computer being a world indicates we can treat it as a world piece inandof itself. [rating, low]~~
-
-## What world pieces?
-
-011524: A 'world piece' is a conceptual unit within the framework of the universal piece computer, representing any significant element within an individual's world. It can be a tangible object, an abstract idea, or a complex system, and it is integral to the functioning of a world piece computer, which operates on the principle of organizing and manipulating these world pieces to fulfill the Human Imperative. World pieces are the building blocks that, when combined, form the unique tapestry of an individual's world, and they are essential for the construction and operation of world piece computers.
-
-Some types or classes of world pieces:
-
-- Physical Objects: Items with tangible presence, such as a house or a book.
-- Abstract Concepts: Ideas or beliefs, like freedom or justice.
-- Emotional States: Feelings that hold significance, such as love or fear.
-- Memories: Personal recollections that shape one's world view.
-- Relationships: Connections with other individuals or entities.
-- Goals and Aspirations: Desired outcomes or life objectives.
-- Cultural Artifacts: Elements that represent cultural significance, like art or music.
-- Technological Constructs: Digital or mechanical systems, such as a computer or a car.
-- Natural Elements: Components of the natural world, like a river or a mountain.
-- Inconceivable Entities: Things beyond current understanding or imagination.
-[rating: 2/5]
-
-old, 21 ~~The more world pieces we identify and track, the higher resolution our datastreams will be. So, if we create a standard where each piece follows the same set of rules (behaves as cellular automata), then we can bundle individual data streams together into logically singular streams. [rating, trash]~~
-
+So, a world piece is any meaningful component of your world that when combined with others, forms a system that defines how your world operates. Deliberately unifying pieces using a world piece computer contributes to the creation of the universal piece computer, which aims to achieve global peace through better understanding and collaboration.
 
