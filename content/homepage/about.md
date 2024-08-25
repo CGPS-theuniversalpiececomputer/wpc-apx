@@ -38,8 +38,6 @@ widget:
 
 {{< figure src="images/characterWP.png" >}}
 
-...
-
 ## Term Overview:
 
 A world piece is a fundamental concept within the time machine for peace social invention program. Imagine it as a building block that represents a significant element of your world. This element can be anything from a physical object, like a book or a house, to an abstract concept, such as love or justice. Each world piece holds meaning and importance to you and contributes to the overall structure of your personal world.
