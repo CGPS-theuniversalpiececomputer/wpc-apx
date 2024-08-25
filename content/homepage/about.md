@@ -34,11 +34,7 @@ widget:
     attachment: 
 ---
 
-## Some characteristics of a world piece:
-
-{{< figure src="images/characterWP.png" >}}
-
-## Term Overview:
+## Concept Overview:
 
 A world piece is a fundamental concept within the time machine for peace social invention program. Imagine it as a building block that represents a significant element of your world. This element can be anything from a physical object, like a book or a house, to an abstract concept, such as love or justice. Each world piece holds meaning and importance to you and contributes to the overall structure of your personal world.
 
@@ -53,4 +49,8 @@ For example, consider a world piece that represents your home. This piece might 
 The ultimate goal of the time machine for peace social invention program is to connect all these individual world pieces to build the universal piece computer. This computer by definition, facilitates global peace by optimizing the arrangement and interaction of world pieces, allowing us to better understand and collaborate with one another.
 
 So, a world piece is any meaningful component of your world that when combined with others, forms a system that defines how your world operates. Deliberately unifying pieces using a world piece computer contributes to the creation of the universal piece computer, which aims to achieve global peace through better understanding and collaboration.
+
+## Some characteristics of a world piece:
+
+{{< figure src="images/characterWP.png" >}}
 
