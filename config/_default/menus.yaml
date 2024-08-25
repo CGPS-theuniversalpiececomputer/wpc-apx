@@ -8,10 +8,9 @@ main:
   - name: THE UNIVERSAL PIECE COMPUTER
     url: 'https://the.up.computer'
     weight: 3
-  - name: THE HUMAN IMPERATIVE
+  - name: THI
     url: 'https://thehumanimperative.up.computer'
     weight: 4
-  - name: $
-    url: 'https://time-machine-for-peace.myshopify.com'
+  - name: TMFP
+    url: 'https://timemachineforpeace.up.computer'
     weight: 5
-
